@@ -1,0 +1,4 @@
+nixtla
+pandas
+python-dotenv
+matplotlib
