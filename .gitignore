@@ -1,7 +1,16 @@
-.venv/
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Environment secrets
 .env
-.DS_Store
+
+# Output / cache
+outputs/
 .mplconfig/
-outputs/*
-!outputs/.gitkeep
+
+# macOS
+.DS_Store
